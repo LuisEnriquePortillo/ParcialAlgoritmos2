@@ -1,0 +1,29 @@
+[Luis Enrique Portillo Orellana] [0907-22-15191]
+
+[SERIE 2]
+En el siguiente bloque de código identifique cada error y escriba la corrección:
+
+def mostrar_mensaje(mensaje) :
+    print (************")
+    print(mensaje
+    pint("*************")
+
+    carga_suma(){
+        valor1=int(input("ingrese el primer valor:"))
+        valor2=int(input("ingrese el segundo valor:"))
+        suma=valor1+valor2
+        print("La suma de dos valores es:"suma)
+    }
+
+[SERIE 3]
+Elabore un programa de línea de comandos para calcular areas de multiples figuras el cual debe recibir como primer argumento el tipo de figura a calcular y luego un conjunto de datos para calcular el area, los valores de cada figura estan separados por comas y cada figura estan separados con comas y cada figura por I(pipe), se muestran utilizando estas formulas: Circulo: PI * radio^2   Rectangulo = Largo*Ancho   Triangulo = base*altura/2 
+
+[algunos ejemplos]
+
+Ejecución: python programa.py circulo radio=3Iradio4
+resultado: area del circulo 1 = 28.27 Area circulo 2 = 50.26
+
+Ejecución: python programa.py rectangulo largo=2, ancho=3Ilargo=3,ancho=3
+resultado: area rectangulo 1 = 6 area rectangulo 2=9
+
+
